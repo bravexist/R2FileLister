@@ -2,6 +2,7 @@
 
 **R2FileLister** 是一个基于 Python 开发的工具，用于自动扫描 Cloudflare R2 存储桶中的文件和文件夹，生成目录结构的静态 HTML 页面，并自动上传到存储空间。生成的网页界面美观简洁，支持中文文件名、多层目录、文件大小显示等功能，方便用户通过浏览器查看和下载文件。
 
+
 ## 功能特点
 
 - **自动生成目录列表**  
@@ -58,7 +59,7 @@
 
 5. **访问目录列表**
 
-   在浏览器中访问 `https://自定义域名/index.html`，即可看到生成的目录列表。
+   在浏览器中访问 `https://自定义域名/index.html`，即可看到生成的目录列表。此处可以在cloudflare设置重定向到index.html
 
 
 ## 注意事项
@@ -66,6 +67,11 @@
 - 请确保 Cloudflare R2 存储桶的访问权限正确，否则可能会导致上传失败。
 - 请确保 `config.json` 文件中的访问密钥和密钥 ID 正确，否则可能会导致上传失败。
 
+## 示例
+
+您可以访问 [clash.bravexist.cn](https://clash.bravexist.cn) 查看在线演示。
+
+![示例截图](https://img.bravexist.cn/2025/02/05/06f5ebabeeacc69fd08f6dc5e4b1b192.png)
 
 ## 感谢
 
