@@ -79,6 +79,7 @@
 - 感谢 [Caddy](https://caddyserver.com/) 提供的文件管理器灵感。
 - 感谢 [Cloudflare R2](https://www.cloudflare.com/r2/) 提供的云存储服务。
 - 感谢 [ChatGPT](https://chatgpt.com/) 提供的智能助手。
+- 感谢 [Cursor](https://cursor.sh/) 提供的智能编辑器。
 
 ## 许可证
 
