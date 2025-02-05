@@ -1,8 +1,8 @@
 {
-    "endpoint_url": "",
-    "aws_access_key_id": "",
-    "aws_secret_access_key": "",
-    "region_name": "auto",
-    "bucket_name": "",
-    "base_url": ""
+    "endpoint_url": "https://<your_account_id>.r2.cloudflarestorage.com",
+    "aws_access_key_id": "<your_access_key>",
+    "aws_secret_access_key": "<your_secret_key>",
+    "region_name": "<your_region>",
+    "bucket_name": "<your_bucket_name>",
+    "base_url": "https://<your_public_bucket_url>"
 }
